@@ -1,0 +1,16 @@
+{
+  "1": [],
+  "2": [],
+  "3": [],
+  "4": [],
+  "category": "2",
+  "title": "Sword Art Online Music Collection Disc 3 - Phantom Bullet",
+  "author": "Yuki Kajiura",
+  "disc": "0",
+  "music_name_index": {
+    "1": [],
+    "2": [],
+    "3": [],
+    "4": []
+  }
+}
